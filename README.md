@@ -5,4 +5,4 @@ The COVID-19 pandemic has caused significant disruptions in the global economy, 
 Video Presentation Link:
 https://youtu.be/BgXiV5fzDKQ
 
-Google Drive Link: (Dataset + Source Code for Crawling + Indexing + Classification + Innovations) https://drive.google.com/drive/folders/1Oc7XEALFd8YRg7s5OXPczZBVNmB59_nF?us p=sharing
+Google Drive Link: (Dataset + Source Code for Crawling + Indexing + Classification + Innovations) https://drive.google.com/drive/folders/1Oc7XEALFd8YRg7s5OXPczZBVNmB59_nF?usp=sharing
